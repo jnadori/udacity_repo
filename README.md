@@ -1,2 +1,5 @@
-# udacity_repo
-This is a github repo 
+git pull
+git add 
+git commit
+git push
+
